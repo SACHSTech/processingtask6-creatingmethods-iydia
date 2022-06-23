@@ -19,7 +19,7 @@ Take a program from a previous processing task and create a method with paramete
 
 ### Level 3
 Level 2 specifications +:
-* another method with parameters to draw a composite object at various locations locations specified by the method parameters.
+* another method with parameters to draw a composite object at various locations specified by the method parameters.
 * include additional parameters to modify the object(s) drawn in this method. i.e colour, size, etc.
 
 ### Level 4
